@@ -1,0 +1,184 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\BCAY{Banchs\ \BBA\ Li}{Banchs\ \BBA\ Li}{2012}]{Banchs2012}
+Banchs, R.~E.\BBACOMMA\  \BBA\ Li, H. \BBOP2012\BBCP.
+\newblock \BBOQ Iris: a chat-oriented dialogue system based on the vector space
+  model\BBCQ\
+\newblock In {\Bem Proceedings of the 50th Annual Meeting of the Association
+  for Computational Linguistics}.
+
+\bibitem[\protect\BCAY{Branavan, Silver,\ \BBA\ Barzilay}{Branavan
+  et~al.}{2012}]{Branavan2012}
+Branavan, S. R.~K., Silver, D., \BBA\ Barzilay, R. \BBOP2012\BBCP.
+\newblock \BBOQ Learning to win by reading manuals in a monte-carlo
+  framework\BBCQ\
+\newblock {\Bem Journal of Artificial Intelligence Research}, {\Bem 43},
+  661--704.
+
+\bibitem[\protect\BCAY{Dethlefs\ \BBA\ Cuay\'{a}huitl}{Dethlefs\ \BBA\
+  Cuay\'{a}huitl}{2011a}]{Dethlefs2011b}
+Dethlefs, N.\BBACOMMA\  \BBA\ Cuay\'{a}huitl, H. \BBOP2011a\BBCP.
+\newblock \BBOQ Combining hierarchical reinforcement learning and bayesian
+  networks for natural language generation in situated dialogue\BBCQ\
+\newblock In {\Bem Proceedings of the 13th European Workshop on Natural
+  Language Generation}.
+
+\bibitem[\protect\BCAY{Dethlefs\ \BBA\ Cuay\'{a}huitl}{Dethlefs\ \BBA\
+  Cuay\'{a}huitl}{2011b}]{Dethlefs2011a}
+Dethlefs, N.\BBACOMMA\  \BBA\ Cuay\'{a}huitl, H. \BBOP2011b\BBCP.
+\newblock \BBOQ Hierarchical reinforcement learning and hidden markov models
+  for task-oriented natural language generation\BBCQ\
+\newblock In {\Bem Proceedings of the 49th Annual Meeting of the Association
+  for Computational Linguistics}.
+
+\bibitem[\protect\BCAY{Ga\v{s}i\'{c}, Breslin, Henderson, Kim, Szummer,
+  Thomson, Tsiakoulis,\ \BBA\ Young}{Ga\v{s}i\'{c} et~al.}{2013a}]{Gasic2013a}
+Ga\v{s}i\'{c}, M., Breslin, C., Henderson, M., Kim, D., Szummer, M., Thomson,
+  B., Tsiakoulis, P., \BBA\ Young, S. \BBOP2013a\BBCP.
+\newblock \BBOQ On-line policy optimisation of bayesian spoken dialogue systems
+  via human interaction\BBCQ\
+\newblock In {\Bem Proceedings of the IEEE ICASSP}.
+
+\bibitem[\protect\BCAY{Ga\v{s}i\'{c}, Breslin, Henderson, Kim, Szummer,
+  Thomson, Tsiakoulis,\ \BBA\ Young}{Ga\v{s}i\'{c} et~al.}{2013b}]{Gasic2013b}
+Ga\v{s}i\'{c}, M., Breslin, C., Henderson, M., Kim, D., Szummer, M., Thomson,
+  B., Tsiakoulis, P., \BBA\ Young, S. \BBOP2013b\BBCP.
+\newblock \BBOQ Pomdp-based dialogue manager adaptation to extended
+  domains\BBCQ\
+\newblock In {\Bem Proceedings of the SIGDIAL Conference}.
+
+\bibitem[\protect\BCAY{Ga\v{s}i\'{c}, Kim, Tsiakoulis, Breslin, Henderson,
+  Szummer, Thomson,\ \BBA\ Young}{Ga\v{s}i\'{c} et~al.}{2014}]{Gasic2014}
+Ga\v{s}i\'{c}, M., Kim, D., Tsiakoulis, P., Breslin, C., Henderson, M.,
+  Szummer, M., Thomson, B., \BBA\ Young, S. \BBOP2014\BBCP.
+\newblock \BBOQ Incremental on-line adaptation of pomdp-based dialogue managers
+  to extended domains\BBCQ\
+\newblock In {\Bem Proceedings of the InterSpeech}.
+
+\bibitem[\protect\BCAY{Guo}{Guo}{2015}]{Guo2015}
+Guo, H. \BBOP2015\BBCP.
+\newblock \BBOQ Generating text with deep reinforcement learning\BBCQ\
+\newblock In {\Bem Proceedings of the NIPS Conference}.
+
+\bibitem[\protect\BCAY{He, Chen, He, Gao, Li, Deng,\ \BBA\ Ostendorf}{He
+  et~al.}{2016}]{He2016}
+He, J., Chen, J., He, X., Gao, J., Li, L., Deng, L., \BBA\ Ostendorf, M.
+  \BBOP2016\BBCP.
+\newblock \BBOQ Deep reinforcement learning with a natural language action
+  space\BBCQ\
+\newblock In {\Bem Proceedings of the 54th Annual Meeting of the Association
+  for Computational Linguistics}.
+
+\bibitem[\protect\BCAY{Levin, Pieraccini,\ \BBA\ Eckert}{Levin
+  et~al.}{1997}]{Levin1997}
+Levin, E., Pieraccini, R., \BBA\ Eckert, W. \BBOP1997\BBCP.
+\newblock \BBOQ Learning dialogue strategies within the markov decision process
+  framework\BBCQ\
+\newblock In {\Bem Proceedings of IEEE Workshop on Automatic Speech Recognition
+  and Understanding}.
+
+\bibitem[\protect\BCAY{Levin, Pieraccini,\ \BBA\ Eckert}{Levin
+  et~al.}{2000}]{Levin2000}
+Levin, E., Pieraccini, R., \BBA\ Eckert, W. \BBOP2000\BBCP.
+\newblock \BBOQ A stochastic model of human-machine interaction for learning
+  dialog strategies\BBCQ\
+\newblock {\Bem IEEE Transactions on Speech and Audio Processing}, {\Bem
+  8\/}(1), 11--23.
+
+\bibitem[\protect\BCAY{Li, Monroe, Ritter, Galley, Gao,\ \BBA\ Jurafsky}{Li
+  et~al.}{2016}]{Li2016}
+Li, J., Monroe, W., Ritter, A., Galley, M., Gao, J., \BBA\ Jurafsky, D.
+  \BBOP2016\BBCP.
+\newblock \BBOQ Deep reinforcement learning for dialogue generation\BBCQ\
+\newblock In {\Bem Proceedings of the Conference on Empirical Methods in
+  Natural Language Processing}.
+
+\bibitem[\protect\BCAY{Narasimhan, Kulkarni,\ \BBA\ Barzilay}{Narasimhan
+  et~al.}{2015}]{Narasimhan2015}
+Narasimhan, K., Kulkarni, T.~D., \BBA\ Barzilay, R. \BBOP2015\BBCP.
+\newblock \BBOQ Language understanding for text-based games using deep
+  reinforcement learning\BBCQ\
+\newblock In {\Bem Proceedings of the 2015 Conference on Empirical Methods in
+  Natural Language Processing}.
+
+\bibitem[\protect\BCAY{Nio, Sakti, Neubig, Toda, Adriani,\ \BBA\ Nakamura}{Nio
+  et~al.}{2014}]{Nio2014}
+Nio, L., Sakti, S., Neubig, G., Toda, T., Adriani, M., \BBA\ Nakamura, S.
+  \BBOP2014\BBCP.
+\newblock \BBOQ Developing non-goal dialog system based on examples of drama
+  television\BBCQ\
+\newblock In {\Bem Proceedings of the Natural Interaction with Robots, Knowbots
+  and Smartphones Conference}.
+
+\bibitem[\protect\BCAY{Oh\ \BBA\ Rudnicky}{Oh\ \BBA\ Rudnicky}{2000}]{Oh2000}
+Oh, A.~H.\BBACOMMA\  \BBA\ Rudnicky, A.~I. \BBOP2000\BBCP.
+\newblock \BBOQ Stochastic language generation for spoken dialogue
+  systems\BBCQ\
+\newblock In {\Bem Proceedings of the 2000 ANLP/NAACL Workshop on
+  Conversational Systems}.
+
+\bibitem[\protect\BCAY{Ratnaparkhi}{Ratnaparkhi}{2002}]{Ratnaparkhi2002}
+Ratnaparkhi, A. \BBOP2002\BBCP.
+\newblock \BBOQ Trainable approaches to surface natural language generation and
+  their application to conversational dialog systems\BBCQ\
+\newblock {\Bem Computer Speech and Language}, {\Bem 16}, 435--455.
+
+\bibitem[\protect\BCAY{Schatzmann, Weilhammer, Stuttle,\ \BBA\
+  Young}{Schatzmann et~al.}{2006}]{Schatzmann2006}
+Schatzmann, J., Weilhammer, K., Stuttle, M., \BBA\ Young, S. \BBOP2006\BBCP.
+\newblock \BBOQ A survey of statistical user simulation techniques for
+  reinforcement-learning of dialogue management strategies\BBCQ\
+\newblock {\Bem The Knowledge Engineering Review}, {\Bem 21\/}(02), 97--126.
+
+\bibitem[\protect\BCAY{Singh, Kearns, Litman,\ \BBA\ Walker}{Singh
+  et~al.}{1999}]{Singh1999}
+Singh, S., Kearns, M., Litman, D., \BBA\ Walker, M. \BBOP1999\BBCP.
+\newblock \BBOQ Reinforcement learning for spoken dialogue systems\BBCQ\
+\newblock In {\Bem Proceedings of NIPS Conference}.
+
+\bibitem[\protect\BCAY{Singh, Kearns, Litman,\ \BBA\ Walker}{Singh
+  et~al.}{2000}]{Singh2000}
+Singh, S., Kearns, M., Litman, D.~J., \BBA\ Walker, M.~A. \BBOP2000\BBCP.
+\newblock \BBOQ Empirical evaluation of a reinforcement learning spoken
+  dialogue system\BBCQ\
+\newblock In {\Bem Proceedings of the 17th National Conference on Artificial
+  Intelligence}.
+
+\bibitem[\protect\BCAY{Singh, Litman, Kearns,\ \BBA\ Walker}{Singh
+  et~al.}{2002}]{Singh2002}
+Singh, S., Litman, D., Kearns, M., \BBA\ Walker, M. \BBOP2002\BBCP.
+\newblock \BBOQ Optimizing dialogue management with reinforcement learning:
+  experiments with the njfun system\BBCQ\
+\newblock {\Bem Journal of Artificial Intelligence Research}, {\Bem 16},
+  105--133.
+
+\bibitem[\protect\BCAY{Vogel\ \BBA\ Jurafsky}{Vogel\ \BBA\
+  Jurafsky}{2010}]{Vogel2010}
+Vogel, A.\BBACOMMA\  \BBA\ Jurafsky, D. \BBOP2010\BBCP.
+\newblock \BBOQ Learning to follow navigational directions\BBCQ\
+\newblock In {\Bem Proceedings of the 48th Annual Meeting of the Association
+  for Computational Linguistics}.
+
+\bibitem[\protect\BCAY{Walker}{Walker}{2000}]{Walker2000}
+Walker, M.~A. \BBOP2000\BBCP.
+\newblock \BBOQ An application of reinforcement learning to dialogue strategy
+  selection in a spoken dialogue system for email\BBCQ\
+\newblock {\Bem Journal of Artificial Intelligence Research}, {\Bem 12},
+  387--416.
+
+\bibitem[\protect\BCAY{Young, Ga\v{s}i\'{c}, Kaizer, Mairesse, Schatzmann,
+  Thomson,\ \BBA\ Yu}{Young et~al.}{2010}]{Young2010}
+Young, S., Ga\v{s}i\'{c}, M., Kaizer, S., Mairesse, F., Schatzmann, J.,
+  Thomson, B., \BBA\ Yu, K. \BBOP2010\BBCP.
+\newblock \BBOQ The hidden state model: a practical framework for pomdp-based
+  spoken dialogue management\BBCQ\
+\newblock {\Bem Computer Speech and Language}, {\Bem 24}, 150--174.
+
+\bibitem[\protect\BCAY{Young, Ga\v{s}i\'{c}, Thomson,\ \BBA\ Williams}{Young
+  et~al.}{2013}]{Young2013}
+Young, S., Ga\v{s}i\'{c}, M., Thomson, B., \BBA\ Williams, J.~D.
+  \BBOP2013\BBCP.
+\newblock \BBOQ Pomdp-based statistical spoken dialogue systems: a review\BBCQ\
+\newblock In {\Bem Proceedings of the IEEE}.
+
+\end{thebibliography}

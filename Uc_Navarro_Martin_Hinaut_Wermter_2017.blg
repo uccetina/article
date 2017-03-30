@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Uc_Navarro_Martin_Hinaut_Wermter_2017.aux
+The style file: theapa.bst
+Database file #1: sample.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 24 entries,
+            2804 wiz_defined-function locations,
+            748 strings with 9838 characters,
+and the built_in function-call counts, 11237 in all, are:
+= -- 849
+> -- 850
+< -- 8
++ -- 291
+- -- 285
+* -- 1145
+:= -- 1928
+add.period$ -- 48
+call.type$ -- 24
+change.case$ -- 191
+chr.to.int$ -- 22
+cite$ -- 24
+duplicate$ -- 406
+empty$ -- 771
+format.name$ -- 319
+if$ -- 2152
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 24
+newline$ -- 123
+num.names$ -- 96
+pop$ -- 261
+preamble$ -- 1
+purify$ -- 215
+quote$ -- 0
+skip$ -- 233
+stack$ -- 0
+substring$ -- 310
+swap$ -- 91
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 192
+warning$ -- 0
+while$ -- 79
+width$ -- 0
+write$ -- 297
